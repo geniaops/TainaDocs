@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Actual",
+    "description": "The label for version current"
+  },
+  "sidebar.documentationSidebar.category.Arquitectura": {
+    "message": "Arquitectura",
+    "description": "The label for category Arquitectura in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Modelo C4": {
+    "message": "Modelo C4",
+    "description": "The label for category Modelo C4 in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Integración": {
+    "message": "Integración",
+    "description": "The label for category Integración in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Recopilación de Datos": {
+    "message": "Recopilación de Datos",
+    "description": "The label for category Recopilación de Datos in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Gestión de Proyecto": {
+    "message": "Gestión de Proyecto",
+    "description": "The label for category Gestión de Proyecto in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Casos de Uso": {
+    "message": "Casos de Uso",
+    "description": "The label for category Casos de Uso in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Diseño": {
+    "message": "Diseño",
+    "description": "The label for category Diseño in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Flujos de Usuario": {
+    "message": "Flujos de Usuario",
+    "description": "The label for category Flujos de Usuario in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Pruebas": {
+    "message": "Pruebas",
+    "description": "The label for category Pruebas in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Implementación": {
+    "message": "Implementación",
+    "description": "The label for category Implementación in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Architecture": {
+    "message": "Architecture",
+    "description": "The label for category Architecture in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.C4 Model": {
+    "message": "C4 Model",
+    "description": "The label for category C4 Model in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Integration": {
+    "message": "Integration",
+    "description": "The label for category Integration in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Data Collection": {
+    "message": "Data Collection",
+    "description": "The label for category Data Collection in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Project Management": {
+    "message": "Project Management",
+    "description": "The label for category Project Management in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Use Cases": {
+    "message": "Use Cases",
+    "description": "The label for category Use Cases in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Design": {
+    "message": "Design",
+    "description": "The label for category Design in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.User Flows": {
+    "message": "User Flows",
+    "description": "The label for category User Flows in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Testing": {
+    "message": "Testing",
+    "description": "The label for category Testing in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Implementation": {
+    "message": "Implementation",
+    "description": "The label for category Implementation in sidebar documentationSidebar"
+  }
+}
